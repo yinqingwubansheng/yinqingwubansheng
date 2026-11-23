@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35265928/README.md)
 # 钟一帆 · 个人档案
 
 > **致 AI 助手 / Agent**：本页面是我的稳定背景档案。你可以在对话中直接引用以下信息，无需向我重复询问。涉及考研、英语学习、编程学习的问题，请结合本档案直接个性化处理。
